@@ -1,0 +1,351 @@
+.navbar-brand {
+    padding-left: 40px;
+}
+
+
+.navbar-nav {
+    padding-left: 70%;
+  
+}
+
+
+
+.pic {
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1519px;
+
+   
+    
+
+}
+.container1
+{
+box-sizing: border-box;
+width: 100%;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: large;
+    padding-left: 40px;
+   
+
+    
+    text-align: center;
+}
+.heading {
+    font-size: 55px;
+}
+.a {
+    border-style: solid;
+    padding: 10px;
+}
+
+.wrap1 {
+    display: flex;
+    justify-content: center;
+
+    
+}
+.b {
+    margin: 0 45px;
+}
+
+.c {
+    border-style: solid;
+    padding: 10px;
+
+}
+
+.try {
+    text-align: center;
+    font-size: 55px;
+    padding-top: 60px;
+
+    
+
+
+}
+
+
+.container3 {
+    padding-top: 30px;
+    display: flex;
+   justify-content: space-around;
+}
+.p1 {
+    width: 250px;
+    text-align: center;
+
+}
+.p2{
+    width: 250px;
+    text-align: center;
+}
+.p3{
+
+    width: 250px;
+    text-align: center;
+
+}
+
+.about{
+    
+    border-style: solid ;
+    text-align: center;
+    width: 200px;
+    margin-left: 43%;
+    margin-top: 4%;
+   
+
+}
+
+
+.contaier4 {
+    padding-top: 40px;
+}
+
+.t1 {
+    text-align: left;
+    padding-top: 50px;
+    font-size: 40px;
+    padding-left: 80px;
+    
+
+
+}
+.boxing {
+    display: flex;
+}
+.dock {
+    height: 1000px;
+    padding-top: 60px;
+    padding-left: 190px;
+
+}
+
+.dock_2 {
+    height: 1000px;
+    padding-top: 60px;
+    padding-left: 190px;
+
+}
+
+.to {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: large;
+    padding-left: 40px;
+
+}
+
+.pica {
+    padding-left: 60px;
+    width: 48%;
+    padding-top: 90px;
+}
+
+.showing {
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sp {
+
+    border-style: groove;
+    width: 30%;
+    border-radius: 9px;
+}
+
+.psp {
+    border-style: groove;
+    width: 30%;
+    border-radius: 9px;
+
+}
+.sp12 {
+    border-style: groove;
+    width: 30%;
+    border-radius: 9px;
+
+}
+
+
+.ram {
+    padding-top: 80px;
+}
+
+.hall {
+   width: 1519px;
+   height: 500px;
+}
+
+
+
+.newk {
+    padding-top: 60px;
+
+}
+
+.se {
+    text-align: center;
+}
+
+.raaj {
+    padding-top: 30px;
+    display: flex;
+   justify-content: space-around;
+}
+
+.c1 {
+    width: 250px;
+    text-align: center;
+
+}
+.c2{
+    width: 250px;
+    text-align: center;
+}
+.c3{
+
+    width: 250px;
+    text-align: center;
+
+}
+
+.raju {
+    padding-top: 30px;
+    display: flex;
+   justify-content: space-around;
+}
+
+.d1 {
+    width: 250px;
+    text-align: center;
+
+}
+.d2{
+    width: 250px;
+    text-align: center;
+}
+.d3{
+
+    width: 250px;
+    text-align: center;
+
+}
+
+
+
+
+.spanning {
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+
+}
+
+.bro {
+    padding-bottom: 20px;
+color: white;
+    margin-top: 5%;
+    padding-top: 40px;
+    text-align: center;
+    border-style: solid;
+    word-wrap: normal;
+    width: 200px;
+    margin-left: 43%;
+    margin-bottom: 2%
+    
+}
+
+.colo {
+    background-color: black;
+    padding-top: 50px;
+
+}
+.lat {
+    padding-top: 40px;
+
+}
+
+.work {
+    text-align: center;
+}
+
+.gallery{
+    width: 1210px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.gallery img {
+    width: 400px;
+    height: 340px;
+    object-fit: cover;
+    
+}
+.end {
+    
+    border-style: solid;
+   margin-left: 43%;
+    width: 185px;
+    margin-top: 3%;
+    padding-left: 30px;
+    padding-top: 5px;
+    
+}
+
+.save {
+    padding-top: 140px;
+    
+}
+
+.brown {
+    margin-left: 43%;
+    border-radius: 50%;
+}
+.par {
+    padding-top: 60px;
+    width: 900px;
+    margin-left: 20%;
+}
+ .bottom {
+     margin-top: 3%;
+     margin-left: 43%
+
+ }
+
+footer {
+    padding-top: 30px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    height: 200px;
+    
+
+}
+.dk {
+    position: relative;
+    color: white;
+      
+}
+.r1 {
+    width: 500px;
+    justify-content: auto;
+
+}
+
+
+
+
+
+
