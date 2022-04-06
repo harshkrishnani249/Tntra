@@ -196,12 +196,13 @@ width: 100%;
     padding-top: 9%;
     margin: 3% 0 ;
      height: 300px ;
-     background-size: cover;
+     
     background-position: center;
-   background-image: url(drawing.jpeg);
+    background-image: url("drawing.jpeg");
    font-weight: bold;
    font-size: 25px;
-}
+   width: 100%;
+} 
 
 
 
